@@ -15,3 +15,14 @@ This presentation shows a few tricks regarding complex TypeScript operations, in
 
 Check the [README](./meetjs-18062024/README.md) for more information.
 
+## Snowflake Engineers 4 Engineers (27/11/2024) - **Boxing and unboxing objects into query params**
+
+This presentation shows how search params/query params may be used for state management, with added benefits:
+
+- Given URL synchronization
+- Persisting between reloads
+- Easy sharing of the state
+- No additional libraries needed
+
+Check the [README](./snowflake-e4e-27112024/README.md) for more information.
+

@@ -24,7 +24,7 @@ from the `code` directory (`pnpm` suggested, but may use your preferred package 
 ```bash
 pnpm i
 
-pnpm start
+pnpm dev
 ```
 
 ### Filters
