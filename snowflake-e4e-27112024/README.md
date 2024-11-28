@@ -19,7 +19,7 @@ Just jump to [6_BoxPlayground.tsx](./code/src/components/phases/6_BoxPlayground.
 
 ### Running the test app
 
-You can run the test app and experiment with the example files in the `./code/src/App.tsx` file by running
+You can run the test app and experiment with the "phase" components linked in the Router section of the `./code/src/App.tsx` file by running the app
 from the `code` directory (`pnpm` suggested, but may use your preferred package manager):
 
 ```bash
